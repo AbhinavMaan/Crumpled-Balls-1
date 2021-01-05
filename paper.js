@@ -15,7 +15,6 @@ class Paper {
     this.r = radius;
 
   }
-}
     display()
     {
      var paperpos = this.body.position;
@@ -29,3 +28,4 @@ class Paper {
      pop()
 
   }
+}
